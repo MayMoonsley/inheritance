@@ -1,0 +1,8 @@
+Medical Robotics Progress
+October 3, 197{X} - To show the world the many applications of automatons, I have begun designing a medical robot that can administer medications and assist with medical procedures.
+- - -
+November 20, 197{X} - The first prototype of the robotic medic is operational, autonomously dispensing medicines. It would be even more useful if it could assist with surgeries, but existing surgical tools require human-shaped hands. This may be a perfect application for my research into Surgical Lasers.
+- - -
+December 29, 197{X} - Equipping the medical robots with powerful lasers makes them potentially dangerous as weapons. I've had to program them with a "digital hippocratic oath" to ensure that they never harm their patients.
+---
+June 6, 198{Y} - I've started developing a more capable successor to the robotic medic. I intend for this new machine to perform complex surgeries without human intervention, which will require a much more advanced computational circuit than the earlier models. Ideally, I should also try to find a way to integrate the "hippocratic oath" into this new model, but this may be more difficult because of its increased autonomy.

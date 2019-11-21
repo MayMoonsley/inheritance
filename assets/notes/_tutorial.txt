@@ -1,0 +1,13 @@
+Tutorial
+You have three main resources: Health, Energy, and Scrip.
+Health is reduced when you get attacked, and you lose if it hits zero.
+Most tools require Energy. It gets replenished each turn.
+Scrip is the currency of this world. It can be spent at shops.
+Use arrow keys or click adjacent rooms to move around the map.
+You will encounter many foes in your journey. Moving to the same space as them will start a fight. Use your tools in battle to defeat them.
+In battles you might get Statuses. Mouse over them to see what they do.
+Bottles on the map contain Traits. Unlike Statuses, these stick with you. Some traits are bad... use your best judgement!
+Strange machines contain Modifiers that you can use to improve your equipment. Be careful - some of them have tradeoffs!
+Staircases on the map take you to the next floor.
+Get to the last floor and defeat the boss to win.
+Good luck!
