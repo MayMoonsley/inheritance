@@ -1,3 +1,0 @@
-Obituary
-    Dr. {Alexander} {Loremipsum}, famed roboticist, has passed away. Known by most for contributing the robot Mr. Pillbug for the long-running TV series Dexter Spacer's Grand Adventures, his thesis paper on hydraulic mathematics is regarded by many as a promising "road not taken" for the field of computing.
-    He is survived by his granddaughter.
